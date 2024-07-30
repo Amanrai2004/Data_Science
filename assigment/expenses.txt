@@ -1,0 +1,4 @@
+Rent, 1200
+Groceries, 150.75
+Utilities, 95.50
+Entertainment, 60
